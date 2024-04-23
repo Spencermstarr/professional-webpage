@@ -1,8 +1,10 @@
 # Junior Data Scientist
 
+#### Technical Skills: R, SQL, Excel, Access, Power BI, Tableau, Chat GPT
+
 ### Education
-Data Analytics Engineering, MS
-Economics, BA
+- M.S., Data Analytics Engineering | George Mason University
+- B.A., Economics | University of California, Irvine
 
 ### Work Experience
 Data Verification Associate at SurePrep (contract)
